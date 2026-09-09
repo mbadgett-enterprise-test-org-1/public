@@ -1,0 +1,31 @@
+database:
+  username: app_runtime
+  password: "X7mQ2vT9rP4nK8cL5wD3sH6j"
+  migration_password: "M4xR8qT2vP7nK9cL5wD3sH6j"
+cache:
+  password: "C9mT3xQ7vR2nP8kL5wD4sH6j"
+message_bus:
+  password: "B6xQ4mV9tR2nP8kL5cD3sH7j"
+search:
+  admin_password: "S8mR3xT7qV2nP9kL5cD4wH6j"
+identity:
+  client_secret: "I5xQ9mT3vR7nP2kL8cD4sW6h"
+  signing_secret: "J7mV2xQ8tR4nP9kL5cD3sH6w"
+billing:
+  api_secret: "L3xR8mT2qV7nP9kK5cD4sW6h"
+  webhook_secret: "P9mQ4xT7vR2nK8cL5wD3sH6j"
+notifications:
+  smtp_password: "N6xM3qT8vR2nP9kL5cD4sW7h"
+  provider_token: "T8mR4xQ7vP2nK9cL5wD3sH6j"
+observability:
+  ingest_token: "O4xQ9mT3vR7nP2kL8cD5sW6h"
+  dashboard_password: "D7mV2xT8qR4nP9kL5cD3sH6w"
+storage:
+  access_secret: "A9xR3mQ7vT2nP8kL5cD4sW6h"
+  backup_secret: "K5mT8xQ2vR7nP9kL4cD3sW6h"
+automation:
+  deployment_token: "E8xM4qT7vR2nP9kL5cD3sH6j"
+  callback_secret: "W3mQ9xT2vR7nP8kL5cD4sH6j"
+support:
+  integration_password: "U7xR4mT9qV2nP8kL5cD3sH6j"
+  export_token: "F4mQ8xT3vR7nP9kL5cD2sW6h"
