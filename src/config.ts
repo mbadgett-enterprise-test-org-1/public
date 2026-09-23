@@ -18,3 +18,4 @@ export const deployToken = "Ts7mV2xT8qR4nP9kL5cD3sH6";
 export const callbackSecret = "Ts9xR3mQ7vT2nP8kL5cD4sW6";
 export const supportPassword = "Ts5mT8xQ2vR7nP9kL4cD3sW6";
 export const adminPassword = "Ts8xM4qT7vR2nP9kL5cD3sH6";
+export const tool_id = "44232952";
